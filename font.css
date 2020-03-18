@@ -1,0 +1,24 @@
+@font-face{
+	font-family: 'font_name1';
+	src: url('fonts/static/Quicksand-Bold.ttf');
+}
+
+@font-face{
+	font-family: 'font_name2';
+	src: url('fonts/static/Quicksand-Light.ttf');
+}
+
+@font-face{
+	font-family: 'font_name3';
+	src: url('fonts/static/Quicksand-Medium.ttf');
+}
+
+@font-face{
+	font-family: 'font_name4';
+	src: url('fonts/static/Quicksand-Regular.ttf');
+}
+
+@font-face{
+	font-family: 'font_name5';
+	src: url('fonts/static/Quicksand-SemiBold.ttf');
+}

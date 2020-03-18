@@ -1,0 +1,186 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+div#header 
+{
+	margin: 0 500px;
+}
+
+div#header h1
+{
+	font-family: font_name1;
+	font-size: 25px;
+	padding-top: 50px;
+}
+
+div#header img
+{
+	width:200px;
+	height:150px;
+	float: left;	 
+}
+
+.clear
+{
+	clear: both;
+}
+
+#navbar
+{
+	width: 100%;
+	background-color: #50321b;
+}
+
+.nav_ul
+{
+	padding-left: 50px;
+}
+
+#navbar .nav_ul li
+{
+	list-style: none;
+	float: left;
+}
+
+#navbar .nav_ul li a
+{
+	color: #ffffff;
+	text-decoration: none;
+	padding: 20px 50px;
+	display: block;
+	text-transform: uppercase;
+	font-family: font_name1;
+}
+
+#navbar .nav_ul li a:hover, .current_page_item
+{
+	background-color:#a76f45;
+}
+
+div#slider img
+{
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+}
+
+div.quote
+{
+	position: absolute;
+	background-color: rgb(255, 255, 255, 0.5);
+	top: 80%;
+	left: 30%;
+	padding: 30px;
+	font-family:Myanmar3,Yunghkio;
+}
+
+p
+{
+	text-align: center;
+	padding: 40px;
+	font-family: font_name2;
+
+}
+
+#style1
+{
+	font-family: font_name1;
+	font-size: 30px;
+}
+
+.style2 
+{
+ 	margin-left: 150px;
+ 	width: 250px;
+ 	float: left;
+ 	display: block;
+ 	margin-top: 50px;
+
+}
+
+.img
+{
+	margin-left: 10px;
+ 	width: 250px;
+
+}
+
+.name
+{
+	font-family: font_name1;
+}
+
+#shop1
+{
+	margin: 90px;
+	float: left;
+	padding: 10px;
+}
+
+#shop2
+{
+	margin: 0px;
+	text-align: left;
+}
+
+h3
+{
+	font-family: font_name1;
+	margin: 30px;
+}
+
+.choose
+{
+	padding-top: 100px;
+	font-family: font_name1;
+}
+
+#cup
+{
+	margin: 90px;
+	padding: 10px;
+}
+
+.cup1
+{
+	padding-bottom: 10px;
+}
+
+.cup2
+{
+	padding-right: 20px;
+}
+
+.cup3
+{
+	padding-left: 20px;
+}
+
+#ol
+{
+	padding: 40px;
+	font-family: font_name2;
+}
+
+#footer
+{
+	width: 97%;
+	background-color: #50321b;
+	color: #ffffff;
+	font-family: font_name2;
+	float: left;
+	display: block;
+	padding: 20px;
+	letter-spacing: 10%;
+}
+
+#foot
+{
+	float: right;
+	margin-right: 20px;
+}
+
+
+
